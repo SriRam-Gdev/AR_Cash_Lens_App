@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: cash_image_library
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5446537680023905825
+  m_GuidHigh: 9598438303238597049
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4890138440583693540
+      m_GuidHigh: 8350285705742756279
+    m_SerializedTextureGuid:
+      m_GuidLow: 15502736904923691779
+      m_GuidHigh: 8054527351994214985
+    m_Size: {x: 0.156, y: 0.078491256}
+    m_SpecifySize: 1
+    m_Name: IND10
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5111868416962264261
+      m_GuidHigh: 15549966551491226266
+    m_SerializedTextureGuid:
+      m_GuidLow: 9364335751005269557
+      m_GuidHigh: 1728256025114539322
+    m_Size: {x: 0.156, y: 0.07624371}
+    m_SpecifySize: 1
+    m_Name: IND20
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5101397821862069170
+      m_GuidHigh: 2819960605989016484
+    m_SerializedTextureGuid:
+      m_GuidLow: 12066474191474672110
+      m_GuidHigh: 5809417873087245336
+    m_Size: {x: 0.156, y: 0.07855035}
+    m_SpecifySize: 1
+    m_Name: IND50
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5763428447652795972
+      m_GuidHigh: 9770465019808450186
+    m_SerializedTextureGuid:
+      m_GuidLow: 8594139079377916141
+      m_GuidHigh: 2360954864753325801
+    m_Size: {x: 0.156, y: 0.072186045}
+    m_SpecifySize: 1
+    m_Name: IND100
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5364805308105290057
+      m_GuidHigh: 15827969648792707769
+    m_SerializedTextureGuid:
+      m_GuidLow: 3342874145573976168
+      m_GuidHigh: 269487848296176089
+    m_Size: {x: 0.156, y: 0.070044}
+    m_SpecifySize: 1
+    m_Name: IND200
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5200336265399020903
+      m_GuidHigh: 2413615238194487687
+    m_SerializedTextureGuid:
+      m_GuidLow: 7432116867726932721
+      m_GuidHigh: 1592307280857533226
+    m_Size: {x: 0.156, y: 0.06789456}
+    m_SpecifySize: 1
+    m_Name: IND500
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4898570302332002653
+      m_GuidHigh: 11922103548379680165
+    m_SerializedTextureGuid:
+      m_GuidLow: 13548121033823525650
+      m_GuidHigh: 9986453612761356200
+    m_Size: {x: 0.156, y: 0.063864715}
+    m_SpecifySize: 1
+    m_Name: IND2000
+    m_Texture: {fileID: 0}

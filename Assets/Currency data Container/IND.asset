@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: IND
+  m_EditorClassIdentifier: Assembly-CSharp::currency_scriptable
+  currencyData:
+  - m_CurrencyValue: IND10
+    m_Binding:
+      m_CurrencyName: 10
+      m_CurrencyType: Rupee
+  - m_CurrencyValue: IND20
+    m_Binding:
+      m_CurrencyName: 20
+      m_CurrencyType: Rupee
+  - m_CurrencyValue: IND50
+    m_Binding:
+      m_CurrencyName: 50
+      m_CurrencyType: Rupee
+  - m_CurrencyValue: IND100
+    m_Binding:
+      m_CurrencyName: 100
+      m_CurrencyType: Rupee
+  - m_CurrencyValue: IND500
+    m_Binding:
+      m_CurrencyName: 500
+      m_CurrencyType: Rupee
+  - m_CurrencyValue: IND2000
+    m_Binding:
+      m_CurrencyName: 2000
+      m_CurrencyType: Rupee
